@@ -169,7 +169,7 @@ transition: all 0.3s ease;
 
 
 body{
-  background: rgb(74, 157, 212);
+  background: rgba(14, 0, 0, 0.986);
   color: aliceblue;
   font-family:Arial, Helvetica, sans-serif;
 margin: 0;
