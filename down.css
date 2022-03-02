@@ -6,13 +6,14 @@
   font-family:Dongle; 
 }
 body{
+  background: rgb(121, 121, 121);
   display:auto;
   justify-content:center;
   align-items:center;
   min-height: center;
   background-image: url(dava.jpg);
   
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 
 body::before
